@@ -12,7 +12,7 @@ up-to-date, versioned custom builds of
 
 These custom kernels builds can be used to enable full Yubikey passthrough to
 WSL2 using [`usbipd`](https://github.com/dorssel/usbipd-win), with full FIDO2
-functionality.
+functionality, and enable exFAT filesystem.
 
 The versioning scheme of this project matches the versioning scheme used by
 WSL2-Linux-Kernel.
