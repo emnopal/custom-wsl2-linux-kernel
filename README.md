@@ -35,7 +35,7 @@ kernel=C:\\Users\\YOUR_USERNAME\\Downloads\\vmlinux
 - Check that the kernel is running with `uname -sr`
 
 ```
-Linux 5.15.123.1-lgug2z-custom-WSL2
+Linux 5.15.123.1-cstkrnl-WSL2
 ```
 
 ## Modification
